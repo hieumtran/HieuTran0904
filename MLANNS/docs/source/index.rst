@@ -1,0 +1,29 @@
+.. MLANNS documentation master file, created by
+   sphinx-quickstart on Sat Aug  7 18:32:43 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to MLANNS's documentation!
+==================================
+
+This documentation is my diary on statistical learning (machine learning) and artificial neural network (ANNs).
+I will constantly update and update my knowledge within this domain everyday.
+For constistency purpose, I will follow mostly in `Introduction to statistical learning <https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc363aa822d2c7/1611259312432/ISLR+Seventh+Printing.pdf>`_.
+I will also include various good resources to improve this respository
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Introduction
+
+   ML/ML_basic
+
+.. Unclear on its usages
+..
+   Indices and tables
+   ==================
+
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
