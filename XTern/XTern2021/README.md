@@ -1,7 +1,7 @@
-# XTern2020
+# XTern2021
 
 ## I) Overview
-The XTern2020 dataset is a very interesting dataset. It has a lot of variables, such as ratings or average cost, to analyze the data and has many missing data. After analyzing the XTern2020 dataset, I draw 4 conclusions: 
+The XTern2021 dataset is a very interesting dataset. It has a lot of variables, such as ratings or average cost, to analyze the data and has many missing data. After analyzing the XTern2021 dataset, I draw 4 conclusions: 
   1) The longitude and latitude does not have affect on the rating, votes, reviews, average cost, minimum order, or cooking time. 
   2) Many people will tend to use the delivery system with different types of cuisines.
   3) The most trending delievery system is the one with 7 different cuisines.
