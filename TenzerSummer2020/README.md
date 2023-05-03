@@ -1,0 +1,2 @@
+# Generate-Longitude-and-Latitude
+Using Selenium library to automatically call Chrome. It will automatically extract the coordinate from Google Map websites given the name and address of the location. This is a challenge from Tenzer Summer Intern 2020.
